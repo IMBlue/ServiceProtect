@@ -1,0 +1,7 @@
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\bin\Debug\service_protect.exe
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\bin\Debug\service_protect.pdb
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\obj\Debug\service_protect.csprojResolveAssemblyReference.cache
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\obj\Debug\service_protect.Properties.Resources.resources
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\obj\Debug\service_protect.csproj.GenerateResource.Cache
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\obj\Debug\service_protect.exe
+c:\users\blue\documents\visual studio 2015\Projects\service_protect\service_protect\obj\Debug\service_protect.pdb
